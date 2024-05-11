@@ -1,6 +1,6 @@
 <h1 align="center">WEB UI SCREENS (18+)</h1>
 
-<img src="./Screenshot_1.png">
+<img src="./images/banner/banner.png">
 
 # `layout`
 
