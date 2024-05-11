@@ -7,7 +7,8 @@
   "main": "tailwind.config.js",
   "devDependencies": {},
   "scripts": {
-    "twind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "twind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "author": "Asliddin",
   "license": "ISC",
