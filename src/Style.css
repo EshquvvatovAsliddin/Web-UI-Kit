@@ -3,7 +3,7 @@
 /* 111111111111111111111111111111111111111111111111111111111111111111 */
 @media only screen and (max-width: 1150px) {
     .clearwidh {
-        width: 70px !important;
+        width: 180px !important;
         padding: 0 2px !important;
     }
 }
@@ -14,7 +14,7 @@
         }
     }
     .clearwidh {
-        width: 80px !important;
+        width: 125px !important;
         padding: 2 4px !important;
     }
 }
@@ -25,7 +25,7 @@
         }
     }
     .clearwidh {
-        width: 70px !important;
+        width: 190px !important;
         padding: 0 2px !important;
     }
 }
@@ -52,6 +52,13 @@
         width: 153px !important;
         margin-left: 2px;
         padding: 0 8px !important;
+    }
+
+
+    .addresponsive{
+        font-size: 20px !important;
+        text-align: center;
+        margin-bottom: -4px;
     }
 }
 /* 111111111111111111111111111111111111111111111111111111111111111111 */
