@@ -1,4 +1,10 @@
-<h1 align="center">WEB UI SCREENS (18+)</h1>
+<h1 align="center">Now</h1>
+
+<img src="./images/banner/NowBanner.png">
+
+
+
+<h1 align="center">WEB UI SCREENS (19)</h1>
 
 <img src="./images/banner/banner.png">
 
