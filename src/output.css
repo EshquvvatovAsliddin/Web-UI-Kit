@@ -1044,6 +1044,38 @@ video {
   margin-top: -340px;
 }
 
+.ml-0 {
+  margin-left: 0px;
+}
+
+.ml-28 {
+  margin-left: 7rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.ml-32 {
+  margin-left: 8rem;
+}
+
+.ml-\[400px\] {
+  margin-left: 400px;
+}
+
+.ml-\[660px\] {
+  margin-left: 660px;
+}
+
+.ml-\[680px\] {
+  margin-left: 680px;
+}
+
+.-mt-\[400px\] {
+  margin-top: -400px;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -1163,6 +1195,18 @@ video {
   height: 30px;
 }
 
+.h-\[60px\] {
+  height: 60px;
+}
+
+.h-\[40px\] {
+  height: 40px;
+}
+
+.h-\[50px\] {
+  height: 50px;
+}
+
 .w-14 {
   width: 3.5rem;
 }
@@ -1214,6 +1258,26 @@ video {
 
 .w-screen {
   width: 100vw;
+}
+
+.w-\[384px\] {
+  width: 384px;
+}
+
+.w-\[3-4px\] {
+  width: 3-4px;
+}
+
+.w-\[304px\] {
+  width: 304px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[143px\] {
+  width: 143px;
 }
 
 .max-w-screen-xl {
@@ -2274,6 +2338,11 @@ video {
   border-color: rgb(255 112 100 / var(--tw-border-opacity));
 }
 
+.border-\[\#333333\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(51 51 51 / var(--tw-border-opacity));
+}
+
 .bg-\[rgb\(255\2c 0\2c 0\)\] {
   --tw-bg-opacity: 1;
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
@@ -2297,6 +2366,15 @@ video {
 .bg-\[\#FF7064\] {
   --tw-bg-opacity: 1;
   background-color: rgb(255 112 100 / var(--tw-bg-opacity));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#333333\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(51 51 51 / var(--tw-bg-opacity));
 }
 
 .decoration-slice {
@@ -2476,6 +2554,21 @@ video {
   padding-bottom: 1rem;
 }
 
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.px-\[\] {
+  padding-left: ;
+  padding-right: ;
+}
+
+.px-\[20px\] {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .pb-10 {
   padding-bottom: 2.5rem;
 }
@@ -2486,6 +2579,10 @@ video {
 
 .pl-4 {
   padding-left: 1rem;
+}
+
+.pl-5 {
+  padding-left: 1.25rem;
 }
 
 .text-left {
@@ -2568,6 +2665,22 @@ video {
   line-height: 1.25rem;
 }
 
+.text-\[64px\] {
+  font-size: 64px;
+}
+
+.text-\[24px\] {
+  font-size: 24px;
+}
+
+.text-\[50px\] {
+  font-size: 50px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -2586,6 +2699,10 @@ video {
 
 .font-thin {
   font-weight: 100;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .uppercase {
@@ -2725,6 +2842,11 @@ video {
 .text-\[\#515050\] {
   --tw-text-opacity: 1;
   color: rgb(81 80 80 / var(--tw-text-opacity));
+}
+
+.text-\[\#333333\] {
+  --tw-text-opacity: 1;
+  color: rgb(51 51 51 / var(--tw-text-opacity));
 }
 
 .underline {
